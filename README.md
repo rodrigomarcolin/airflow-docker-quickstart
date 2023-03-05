@@ -13,7 +13,7 @@ Este repositório contém um código boilerplate para iniciar rapidamente um pro
 
 Este repositório contém os seguintes arquivos e pastas:
 
-- `compose/ocker-compose.yaml`: O arquivo de configuração do Docker Compose para iniciar o Airflow e outros serviços relacionados
+- `compose/docker-compose.yaml`: O arquivo de configuração do Docker Compose para iniciar o Airflow e outros serviços relacionados
 - `compose/.env`: O arquivo com definição de algumas variáveis de ambiente que serão utilizadas pelo Docker para configurar o Airflow
 - `dags/`: Pasta para armazenar seus DAGs personalizados
 - `scripts/`: Pasta para armazenar scripts auxiliares para seus DAGs
