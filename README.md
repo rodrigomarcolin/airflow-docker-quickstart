@@ -19,10 +19,6 @@ Este repositório contém os seguintes arquivos e pastas:
 - `scripts/`: Pasta para armazenar scripts auxiliares para seus DAGs
 - `plugins/`: Pasta para armazenar seus plugins personalizados para o Airflow
 
-## Contribuição
-
-Se você tiver sugestões ou melhorias para este projeto, sinta-se à vontade para abrir uma issue ou um pull request. Estamos sempre buscando melhorar o código e a experiência do usuário.
-
 ## Referências
 
 1. https://towardsdatascience.com/setting-up-apache-airflow-with-docker-compose-in-5-minutes-56a1110f4122
